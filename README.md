@@ -5,11 +5,6 @@
     <img src="https://readme-typing-svg.herokuapp.com/?lines=Salut!+👋;C'est+Justin+Gestière...;Nice+to+meet+you!&center=true&size=30">
   </a>
 </h1>
-<h1 align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Salut!+👋;C'est+Quentin+Durant....;Nice+to+meet+you!&center=true&size=30">
-  </a>
-</h1>
 
 <h5 align="center">
   <code><a href="https://www.linkedin.com/in/justin-gestière-313a5b231/" title="LinkedIn Profile"><img width="22" src="images/linkedin.svg"> LinkedIn</a></code>
