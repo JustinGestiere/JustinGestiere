@@ -10,8 +10,8 @@
 </h1>
 
 <h5 align="center">
-  <a href="https://www.linkedin.com/in/justin-gestière-313a5b231/" title="LinkedIn Profile"><img width="22" src="images/linkedin.svg"> LinkedIn</a>
-  <a href="https://www.instagram.com/justin_gstr/?next=%2F" title="Instagram Profile"><img width="22" src="images/instagram.svg"> Instagram</a>
+  <a href="https://www.linkedin.com/in/justin-gestière-313a5b231/" title="LinkedIn Profile"><img width="25" src="images/linkedin.svg"> LinkedIn</a>
+  <a href="https://www.instagram.com/justin_gstr/?next=%2F" title="Instagram Profile"><img width="25" src="images/instagram.svg"> Instagram</a>
 </h5>
 <br>
 <p align="center">
