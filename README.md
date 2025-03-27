@@ -7,7 +7,7 @@ Actuellement :
 - 📫 Comment me contacter ? : Intagram -> justin_gstr / Email -> justin.gestiere@gmail.com
 - ⚡ Fait amusant : J'adore l'escalade mais j'ai le vertige dès que je ne suis pas attaché.
 
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Quentindurant.Quentindurant">
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=JustinGestiere.JustinGestiere">
 
 <h1 align="center">
   <a href="https://git.io/typing-svg">
