@@ -32,10 +32,10 @@
 <br>
 <p align="center">
 <!--   <img title="C++" height="25" src="images/cpp.svg"> -->
-  <img title="Javascript" height="25" src="images/javascript.svg">
 <!--   <img title="Problem Solving" height="25" src="images/problemSolving.png"> -->
   <img title="HTML5" height="25" src="images/html5.svg">
   <img title="CSS" height="25" src="images/css.svg">
+  <img title="Javascript" height="25" src="images/javascript.svg">
   <img title="React" height="25" src="images/react-original.svg">
   <img title="Git" height="25" src="images/git-original.svg">
   <img title="Visual Studio Code" height="25" src="images/vscode.png">
@@ -45,6 +45,12 @@
   <img title="MySQL" height="25" src="images/mysql.svg">
 <!--   <img title="npm" height="25" src="images/npm.svg"> -->
   <img title="PHP" height="25" src="images/php.svg">
+  <img title="Python" height="25" src="images/python_1822899.png">
+  <img title="Laravel" height="25" src="images/icons8-laravel-48.png">
+  <img title="Markdown" height="25" src="images/icons8-markdown-32.png">
+  <img title="Bash" height="25" src="images/icons8-frapper-48.png">
+  <img title="Bootstrap" height="25" src="images/icons8-bootstrap-48.png">
+  
 </p>
 <hr>
 
